@@ -6,7 +6,7 @@ Este projeto de ouvidoria permite o gerenciamento e visualização de manifesta�
 
 - Vinicius Miguel
 - Matheus Marques
-- Higor
+- Higor Vitório
 - Ruan Montenegro
 - Juan Wagner
 - Roberto
