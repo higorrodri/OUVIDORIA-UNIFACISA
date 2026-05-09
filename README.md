@@ -4,13 +4,8 @@ Este projeto de ouvidoria permite o gerenciamento e visualização de manifesta�
 
 ## Equipe do Projeto
 
-- Vinicius Miguel
 - Matheus Marques
 - Higor Vitório
-- Ruan Montenegro
-- Juan Wagner
-- Roberto
-- Gustavo
 
 ## Estrutura do Projeto
 
