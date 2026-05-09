@@ -1,4 +1,4 @@
-# Ouvidoria - Mundo Mágico ✨
+
 
 Este projeto de ouvidoria permite o gerenciamento e visualização de manifestações de usuários, incluindo reclamações, sugestões e elogios, com a finalidade de melhorar a experiência e atendimento no ambiente do Mundo Mágico.
 
