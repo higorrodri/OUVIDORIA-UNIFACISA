@@ -15,19 +15,19 @@ As manifestações são armazenadas em um banco de dados MySQL e possuem os segu
 - **Descrição**: Detalhes sobre a manifestação.
 - **Autor**: Nome do autor da manifestação.
 - **Categoria**: Tipo de manifestação, que pode ser uma das seguintes opções:
-  - 🛑 Reclamação
-  - 💡 Sugestão
-  - 👍 Elogio
-  - 🚨 Denúncia
-  - ℹ️ Informação
-  - ❓ Outros
+  - Reclamação
+  - Sugestão
+  - Elogio
+  - Denúncia
+  - Informação
+  - Outros
 
 ## Tecnologias Utilizadas
 
 O projeto é desenvolvido em:
 
-- **Frontend**: Vue.js 🖥️, usando JavaScript, Bootstrap, e Axios para a comunicação com o backend.
-- **Backend**: Python 🐍 com o Flask, usando as bibliotecas `Flask`, `request`, `jsonify`, `CORS` para o gerenciamento das manifestações.
+- **Frontend**: Vue.js , usando JavaScript, Bootstrap, e Axios para a comunicação com o backend.
+- **Backend**: Python com o Flask, usando as bibliotecas `Flask`, `request`, `jsonify`, `CORS` para o gerenciamento das manifestações.
 - **Banco de Dados**: MySQL 🗄️, que armazena as manifestações.
 
 ---
